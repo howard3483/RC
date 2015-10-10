@@ -2,7 +2,9 @@
 VERSION:2.0
 PRODID:-//CSV to iCal Convertor//Manas Tungare, manas.tungare.name//EN
 CALSCALE:GREGORIAN
-X-WR-CALNAME;VALUE=TEXT:AU4 活動 - 工作表
+X-WR-TIMEZONE:Asia/Hong_Kong
+X-WR-CALNAME:AU4 日程表
+X-WR-CALDESC:AU4 日程表
 BEGIN:VEVENT
 SUMMARY:RC-GM 影團相
 DESCRIPTION:影團相
